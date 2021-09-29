@@ -3,7 +3,7 @@ import Card from "react-bootstrap/Card";
 
 const Frase = (props) => {
   return (
-    <Card className="w-100 my-5">
+    <Card className="w-75 my-3">
       <Card.Body>
         <div className="row">
           <div className="col-sm-12 col-md-4">
